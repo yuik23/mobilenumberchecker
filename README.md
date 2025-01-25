@@ -15,7 +15,8 @@
 ## 実行結果
 ### 1.有効な番号である場合
 
-<img width="342" alt="image" src="https://github.com/user-attachments/assets/df9f99dd-11fd-4992-b0ae-0d61a36d4cc3" />
+<img width="285" alt="image" src="https://github.com/user-attachments/assets/cc9a5918-a36f-4c91-bd39-acb48f60e9c3" />
+
 
 ### 2.無効な番号である場合
 
